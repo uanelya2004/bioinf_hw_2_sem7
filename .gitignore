@@ -1,0 +1,11 @@
+data/
+reference/
+teacher/
+igv_bundle/
+logs/
+results/signal/
+*.bam
+*.bai
+*.bw
+*.fa
+*.gtf
